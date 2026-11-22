@@ -36,4 +36,4 @@ O som de choque do raio combina ruído filtrado e oscilações curtas para produ
 
 Os sons de aviso, tornado, investida, laser, míssil, impacto e explosão do chefe são sintetizados em `lib/game/audio.ts`.
 
-A apresentação do Polvo Camaleão e os efeitos de braços, investida giratória, bolhas e tinta usam osciladores e ruído filtrado originais em `lib/game/audio.ts`. O jato de tinta, as bolas lançadas e o impacto no pato têm sons próprios.
+A apresentação do Polvo Camaleão e os efeitos de braços, investida giratória, redemoinho e tinta usam osciladores e ruído filtrado originais em `lib/game/audio.ts`. O jato de tinta, as bolas lançadas e o impacto no pato têm sons próprios.
