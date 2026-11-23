@@ -28,12 +28,9 @@ bolhas sintetizadas. Foi criada para este jogo, sem arquivos de áudio ou licen�
 
 O som de choque do raio combina ruído filtrado e oscilações curtas para produzir um estalo e um zumbido elétrico.
 
-- **CC0 Deep Monster Roar**, de **trazzz123**. Rugido do Megalodon.
-- Fonte: https://opengameart.org/content/cc0-deep-monster-roar
-- Arquivo original: https://opengameart.org/sites/default/files/monster_roar.wav
-- Arquivo usado no jogo: `megalodon-roar.wav`, trecho mono de 2,2 segundos.
-- Licença declarada pelo autor: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+- **Rugido do Megalodon e do Mini Megalodon.** Arquivo `shark_roar.ogg` fornecido para o projeto, convertido para `shark-roar.wav` para reprodução no navegador. O Mini Megalodon reproduz o mesmo som a 1,2×.
+- **Som do Helicóptero.** Arquivo `helicopter_roar.mp3` fornecido para a apresentação e para o início de cada investida, incluído no jogo como `helicopter-roar.mp3`.
 
-Os sons de aviso, tornado, investida, laser, míssil, impacto e explosão do chefe são sintetizados em `lib/game/audio.ts`.
+Os sons de aviso, tornado, laser, míssil, impacto e explosão do chefe são sintetizados em `lib/game/audio.ts`.
 
 A apresentação do Polvo Camaleão e os efeitos de tentáculos, investida giratória, redemoinho e tinta usam osciladores e ruído filtrado originais em `lib/game/audio.ts`. O jato de tinta, as bolas lançadas e o impacto no pato têm sons próprios.
