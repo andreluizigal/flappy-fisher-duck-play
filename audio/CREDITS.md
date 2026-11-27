@@ -11,7 +11,7 @@
 - Licença: https://creativecommons.org/publicdomain/zero/1.0/
 - Obtido em 8 de novembro de 2026.
 
-- **Basilisk Boss Battle Loop**, de **beardalaxy**. Trilha compartilhada nas lutas contra o Megalodon, o Helicóptero e o Polvo Camaleão.
+- **Basilisk Boss Battle Loop**, de **beardalaxy**. Trilha compartilhada nas lutas contra o Megalodon, o Helicóptero e o Polvo.
 - Fonte: https://opengameart.org/content/basilisk-boss-battle-loop
 - Arquivo original: https://opengameart.org/sites/default/files/basilisk_boss_battle_in_game.ogg
 - Arquivo usado no jogo: `megalodon-battle.mp3`, com fades curtos nas pontas e codificação MP3 para compatibilidade com navegadores.
@@ -33,4 +33,4 @@ O som de choque do raio combina ruído filtrado e oscilações curtas para produ
 
 Os sons de aviso, tornado, laser, míssil, impacto e explosão do chefe são sintetizados em `lib/game/audio.ts`.
 
-A apresentação do Polvo Camaleão e os efeitos de tentáculos, investida giratória, redemoinho e tinta usam osciladores e ruído filtrado originais em `lib/game/audio.ts`. O jato de tinta, as bolas lançadas e o impacto no pato têm sons próprios.
+A apresentação do Polvo e os efeitos de tentáculos, investida giratória, redemoinho e tinta usam osciladores e ruído filtrado originais em `lib/game/audio.ts`. O jato de tinta, as bolas lançadas e o impacto no pato têm sons próprios.
